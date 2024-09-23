@@ -1,10 +1,10 @@
 # Personaje2024
-## Nombre del pesonaje
+## Nombre del personaje
 EL GRINCH
 ## Creador
 José Emmanuel Arredondo Escalante
 ## Explicacion del funcionamiento
-El personaje al momento que se acerca 5 cm una persona comiemza a hacer algo (descripcion luz, sonido y movimiento), da una explicación completa 
+El personaje al momento que se acerca 5 cm una persona comienza a hacer algo (descripcion luz, sonido y movimiento), da una explicación completa 
 
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
@@ -23,11 +23,11 @@ El personaje al momento que se acerca 5 cm una persona comiemza a hacer algo (de
 ## Dibujo del personaje
 Imagen hecha a mano o con software 
 
-## Enlaces de la simulación de wokwi
-Deben ser de 1 a 2 enlaces de wokwi
+## Enlaces de la simulación de Wokwi
+Deben ser de 1 a 2 enlaces de Wokwi
 
 ## Videos
-Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración maxima de 5 minutos.
+Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
 
 ## Capturas de Evaluaciones de Curso de C
 Capturas de pantalla de sus resultados de evaluaciones del curso de C.
