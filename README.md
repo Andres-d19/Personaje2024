@@ -16,14 +16,21 @@ el personaje al momento que se acerca 5 cm una persona comiemza a hacer algo (de
 
 ## Software a utilizar
 |Software|Versión|
+|--|--|
+|Thonny|4.1.6|
+|...||
+
 
 ## Dibujo del personaje
-Imagen hecha a mano o software 
+Imagen hecha a mano o con software 
 
 ## Enlaces de la simulación de wokwi
+Deben ser de 1 a 2 enlaces de wokwi
 
 ## Videos
+Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración maxima de 5 minutos.
 
-## Imagen de la captura de pantalla de los examenes de cisco C
+## Capturas de Evaluaciones de Curso de C
+Capturas de pantalla de sus resultados de evaluaciones del curso de C.
 
 
