@@ -43,4 +43,6 @@ https://drive.google.com/file/d/1xzKu9jCXLYh2wcMmi-6giPCpdu9jcuLD/view?usp=shari
 
 ## Capturas de Evaluaciones de Curso de C
 https://drive.google.com/drive/folders/10pjmHR3DnxKKeRwn9KNzPNcsBEj8i_VM?usp=sharing
+https://docs.google.com/document/d/1x3_QqHkBlwm4FfAOANtwhmjsdc6sJJhpw91hjV8FTis/edit?usp=sharing
+
 
