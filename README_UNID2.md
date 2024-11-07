@@ -13,7 +13,7 @@ el LED RGB parpadea en rojo, y la distancia del intruso se muestra en la OLED
 ## Ejercicios en Clase
 
 LA EXPLICACION DE CADA EJERCICIO SE ENCUENTRA EN SU RESPECTIVA CARPETA 
-https://drive.google.com/drive/folders/10wt11mgyVxfgfTNA8foS2NPJdw6Lk_1y?usp=sharing
+https://drive.google.com/drive/folders/1R92nynvPwW3YtyNMwIeunY--IjR0rQ0j?usp=sharing
 
 
 ## Avance del Proyecto Navideño
